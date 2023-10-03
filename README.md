@@ -35,7 +35,10 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='//imgur.com/a/9ZXeqwg' title='Video Demo' width='' alt='Video Demo' />
+<img src='//imgur.com/a/9ZXeqwg' title='Video Demo' width='' 
+
+alt='Video Demo' />![Kapture 2023-10-02 at 22 19 03](https://github.com/seemore101/calculator/assets/82735897/88576239-8233-4d3c-95e2-e8c51736a135)
+
 
 GIF created with **your chosen GIF tool**
 
